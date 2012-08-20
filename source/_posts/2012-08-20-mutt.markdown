@@ -1,0 +1,84 @@
+---
+layout: post
+title: "mutt"
+date: 2012-08-20 01:35
+comments: true
+categories: 
+---
+
+Over the years, I've used a *lot* of email clients.
+
+<!--- fuck I hate this. I need to change this section entirely -->
+* Outlook Express ~ 1998
+
+    Can you believe I actually thought OE was really awesome when I first started using it?
+
+* Evolution ~ 2002
+
+    I used to compile this (and all of its dependencies) on slackware with dropline gnome on my 400MHz IBM ThinkPad 600e often, for some reason.
+
+* KMail ~ 2003-2006
+
+    My first "favorite" mail client. It could be crashy, but it was pretty, it did threading properly, and had support for automatically setting the `To:` address when replying to a message in a given folder (great for mailing lists)
+
+* Thunderbird ~ 2007 - 2010
+
+    I started using this when I switched to using OSX as a desktop. I stopped using it when Thunderbird 3 came out.
+
+* OSX Mail.app ~ 2010 - 2011
+
+    I reluctantly used this for a while after I installed Thunderbird 3, found out it couldn't hack it with my volume of mail, and was unsuccessful in downgrading it.
+
+* GMail ~ since inception
+
+    It's a great webmail interface, and it actually does have really great keybinding support.
+
+* Outlook ~ 2012
+
+    I started a new job where we use Exchange as our email server. We use all of the calendaring, and the global directory and such, so I just decided to stick with that for a while.
+
+<!--- end FUCK THIS SECTION -->
+
+Through all of these years though, since around the time I started hitting the mailing lists hard (around 2002), [mutt][mutt] has been an email client which was always in the back of my mind.
+
+I'd tried to use it before, with varying degrees of success.
+I used to try to get it to play nice with a [Maildir++][maildirplusplus]-style Maildir (so that I could still use said Maildir with my IMAP server).
+I had weird issues with terminals breaking the display when scrolling through message lists.
+I couldn't ever find a color scheme I liked, or come up with my own, and mutt without colors is unusable.
+I couldn't figure out how to get it to play nice with multiple IMAP accounts, including setting up the `From:` address and such depending on which account I wanted to send from.
+
+However, using Outlook as a daily driver for the past few months got me motivated to try out mutt again.
+(Yes, Outlook really *is* that bad.)
+
+So, I decided to start off really easy. I had some stuff left over from a former iteration of my `.muttrc`, so I extracted a couple of useful bits from it and set it to the side, for reference, for posterity, for nostalgia, who knows?
+
+The first thing I had to do was make it so I could even *look* at mutt without wanting to claw my eyes out.
+Fortunately, things have changed since my last encounter with mutt, and the wonderful folks at [Solarized][solarized] publish a [mutt color scheme][mutt-solarized] which works quite nicely with their [iTerm2][iterm2] color scheme, so I started with that.
+
+Then, I threw my work email information into my `.muttrc` and fired up mutt.
+Glorious.
+With Solarized and an otherwise stock `.muttrc` it was already infinitely better than looking at outlook.
+
+Since I have both work and personal email accounts, and I keep my dotfiles in git, I needed a way to handle multiple accounts.
+Instead of banging my head against trying to make multiple accounts work within a single `.muttrc`, I punted and went with a stub rc file for each account, which would set up the profile for the account (login info, email address, subscriptions) and then include a shared rc file which had common settings (key bindings, aliases, behavior).
+I access these various mutt "instances" using shell aliases which instruct mutt to load the desired account's rc file.
+
+I really feel like this decision is what made this attempt with mutt a successful one.
+I don't have to worry about the intricacies of tweaking folder-hooks, generating lists of mailboxes from multiple IMAP accounts, or trying to figure out which SMTP server to use.
+I just launch one mutt, or the other, and it Just Works™.
+
+Because of this, I was able to immediately switch to using mutt as my daily driver, as opposed to using my normal daily driver while I worked on my `.muttrc`.
+They say immersion is the best way to learn a language.
+Well, I say immersion is the best way to learn mutt.
+
+Another piece of advice I discovered was that googling for anything mutt-related and hoping to get the relevant documentation from mutt.org is a lost cause.
+Pressing F1 and searching through the help file is *much* easier.
+Seriously.
+
+I still don't have things set up 100% perfectly, but I'm extremely pleased with what I have, and it's still light-years better than using Outlook.
+
+
+[maildirplusplus]: http://www.courier-mta.org/imap/README.maildirquota.html "Maildir++ an extension of Maildir"
+[mutt]: http://www.mutt.org/ "The mutt email client"
+[solarized]: http://ethanschoonover.com/solarized "Solarized color scheme"
+[mutt-solarized]: https://github.com/altercation/mutt-colors-solarized "Solarized Colorscheme for mutt"
