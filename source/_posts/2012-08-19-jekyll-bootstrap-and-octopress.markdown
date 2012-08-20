@@ -68,3 +68,4 @@ I look forward to this relationship, Octopress. May we have many great times alo
 [octopress]: http://octopress.org/ "Octopress"
 [gist-tag]: http://octopress.org/docs/plugins/gist-tag/ "gist-tag octopress plugin"
 [dreamhost]: https://www.dreamhost.com/ "DreamHost Web Hosting"
+[pullquotes]: http://octopress.org/docs/plugins/pullquote/ "Octopress pull quote plugin"
