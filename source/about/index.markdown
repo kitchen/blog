@@ -5,7 +5,7 @@ sidebar: false
 footer: true
 ---
 
-{% img right about/ragbrai-2010-sioux-city.jpg %}
+{% img right /images/ragbrai-2010-sioux-city.jpg %}
 
 Hello, my name is Jeremy Kitchen.
 
@@ -37,5 +37,5 @@ I also have a [GPG key][gpgkey] if you're into that sort of thing (I am, and you
 [mail]: mailto:kitchen@kitchen.io "email kitchen@kitchen.io"
 [twitter]: https://twitter.com/kitchen "@kitchen on twitter"
 [jabber]: xmpp://kitchen@scriptkitchen.com/
-[gpgkey]: about/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
+[gpgkey]: /text/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
 [github]: https://github.com/kitchen "@kitchen on github"
