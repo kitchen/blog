@@ -25,6 +25,7 @@ Here are some ways to contact me:
 * github: [@kitchen][github]
 * xmpp: [kitchen@scriptkitchen.com][jabber]
 * cell: 708-805-4655
+* irc: jkitchen on [freenode][freenode]
 
 I also have a [GPG key][gpgkey] if you're into that sort of thing (I am, and you should be too) <!--- I should make up a post about gpg and link to it there -->
 
@@ -39,3 +40,4 @@ I also have a [GPG key][gpgkey] if you're into that sort of thing (I am, and you
 [jabber]: xmpp://kitchen@scriptkitchen.com/
 [gpgkey]: /text/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
 [github]: https://github.com/kitchen "@kitchen on github"
+[freenode]: http://freenode.net "freenode irc network"
