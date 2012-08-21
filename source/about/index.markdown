@@ -5,7 +5,7 @@ sidebar: false
 footer: true
 ---
 
-{% img right /images/ragbrai-2010-sioux-city.jpg %}
+{% img right images/ragbrai-2010-sioux-city.jpg %}
 
 Hello, my name is Jeremy Kitchen.
 
