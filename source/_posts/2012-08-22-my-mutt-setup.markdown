@@ -12,6 +12,8 @@ Recently, after a 3 month stint of using Outlook at work, I decided to give mutt
 Fortunately, this time I was sucessful, and I'm now using mutt as my primary email client both at work and at home.
 Let me tell you, it's a breath of fresh air!
 
+ [(Pretty, ain't it?)](images/mutt.png "mutt screenshot")
+
 Because I'd previously had so many difficulties with mutt in the past, and now have things set up fairly decently, I thought I should write something which might prove helpful for other potential mutt users, or maybe even seasoned veterans.
 
 <!--more-->
