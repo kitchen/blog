@@ -14,7 +14,7 @@ Let me tell you, it's a breath of fresh air!
 
  [(Pretty, ain't it?)](images/mutt.png "mutt screenshot")
 
-Because I'd previously had so many difficulties with mutt in the past, and now have things set up fairly decently, I thought I should write something which might prove helpful for other potential mutt users, or maybe even seasoned veterans.
+Because I'd had so many difficulties with mutt in the past, and now have things set up fairly decently, I thought I should write something which might prove helpful for other potential mutt users, or maybe even seasoned veterans.
 
 <!--more-->
 
