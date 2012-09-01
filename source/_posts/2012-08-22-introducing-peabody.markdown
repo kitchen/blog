@@ -6,7 +6,7 @@ comments: true
 categories: linux
 ---
 
-I'm proud to announce the arrival of [Peabody][peabody], cron's best friend!
+I'm proud to announce the arrival of [peabody][peabody], cron's best friend!
 
 Peabody grew out of a need for various features I found myself continually writing into cron jobs.
 
@@ -27,7 +27,7 @@ Additionally, it doesn't require modifying *any* existing code. You simply add `
 
 You have a cronjob which you want to run *every minute*.
 But sometimes that job can take more than a minute to run.
-And the job isn't very smart, so a second job will start working on the same things, probably stepping on the work the other one is doing.
+And the job isn't very smart, so a second job will start working on the same things, maybe even stepping on the work the other one is doing.
 How can you fix this?
 
 Well, you *could* have your job be smarter about the work it's doing and make it so it doesn't step on its friends.
