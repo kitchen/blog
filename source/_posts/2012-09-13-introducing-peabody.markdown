@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "introducing peabody"
-date: 2012-08-22 22:07
+date: 2012-09-13 18:26
 comments: true
 categories: linux
 ---
