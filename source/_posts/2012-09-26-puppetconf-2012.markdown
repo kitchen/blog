@@ -1,0 +1,26 @@
+---
+layout: post
+title: "PuppetConf 2012"
+date: 2012-09-26 13:12
+comments: true
+categories: linux puppet
+---
+
+Tonight I'm heading up to San Francisco for PuppetConf 2012!
+
+I'm really looking forward to this conference, the talks they have lined up look really amazing.
+My only regret is that I can't be in more than one place at a time.
+Hopefully they'll record all of the talks and make them available online, as I imagine a lot of them would serve as excellent documentation.
+
+Here's the schedule of talks I'll be attending:
+
+# SCHEDULE HERE
+
+And here's a list of the talks I'll hopefully be able to download videos of afterward:
+
+# DOWNLOADS HERE
+
+If you're going to be going to PuppetConf 2012 and want to meet up, just toss me a mention on twitter and we'll get together for a beer or 10.
+I will definitely be heading to 21st Amendment probably Thursday night after the VMWare social bar, so you might just look for me there!
+
+Hope to see some folks there!
