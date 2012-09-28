@@ -35,7 +35,7 @@ Here's the schedule of talks I'll be attending:
 * 1130-1205: [7 tools for your puppetized devops stack](http://puppetconf.com/speakers/?speaker=Kris%20Buytaert)
 
 * 1315-1400: [Getting started with contributing to Puppet and Facter](http://puppetconf.com/speakers/?speaker=Ruth%20Linehan)
-* 1400-1445: [The design and mindset behing managing puppet systems](http://puppetconf.com/speakers/?speaker=Terry%20Zink)
+* 1400-1445: [The design and mindset behind managing puppet systems](http://puppetconf.com/speakers/?speaker=Terry%20Zink)
 * 1445-1520: [Puppet Modules for Fun and Profit](http://puppetconf.com/speakers/?speaker=Alessandro%20Franceschi)
 * 1550-1635: [CI where infrastructure is the product](http://puppetconf.com/speakers/?speaker=Barry%20Jaspan)
 * 1635-1730: [Red, Green, Re-provision. Test driving operations](http://puppetconf.com/speakers/?speaker=R.%20Tyler%20Croy)
