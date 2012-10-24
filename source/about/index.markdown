@@ -1,5 +1,7 @@
 ---
 layout: page
+title: about
+hidetitle: true
 sharing: false
 sidebar: false
 footer: true
