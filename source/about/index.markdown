@@ -19,11 +19,13 @@ Here are some other things about me:
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run. (barefoot)
+* I'm a [Ham Radio Operator][qrz-CALLSIGN]
 
 Here are some ways to contact me:
 
 * twitter: [@kitchen][twitter]
 * email: [kitchen@kitchen.io][mail]
+<!--- * ham email: [CALLSIGN@arrl.net][arrl-mail] -->
 * github: [@kitchen][github]
 * xmpp: [kitchen@scriptkitchen.com][jabber]
 * cell: 708-805-4655
@@ -54,9 +56,11 @@ Maybe I can help you, while I'm at it?
 
 [GorillaNation]: http://www.gorillanation.com/ "GorillaNation"
 [mail]: mailto:kitchen@kitchen.io "email kitchen@kitchen.io"
+[arrl-mail]: mailto:CALLSIGN@arrl.net "email CALLSIGN@arrl.net"
 [twitter]: https://twitter.com/kitchen "@kitchen on twitter"
 [jabber]: xmpp://kitchen@scriptkitchen.com/
 [gpgkey]: /text/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
 [github]: https://github.com/kitchen "@kitchen on github"
 [freenode]: http://freenode.net "freenode irc network"
 [shittywatercolour]: http://www.reddit.com/user/shitty_watercolour "Shitty_Watercolour on reddit"
+[qrz-CALLSIGN]: http://qrz.com/db/CALLSIGN "CALLSIGN at qrz.com"
