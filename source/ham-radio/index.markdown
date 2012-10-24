@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ham radio"
+hidetitle: true
 comments: false
 sharing: false
 sidebar: false
