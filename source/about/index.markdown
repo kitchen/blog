@@ -19,7 +19,7 @@ Here are some other things about me:
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run. (barefoot)
-* I'm a [Ham Radio Operator][qrz-CALLSIGN]
+* I'm a [Ham Radio Operator][qrz-KK6AKZ]
 
 Here are some ways to contact me:
 
@@ -55,11 +55,11 @@ Maybe I can help you, while I'm at it?
 
 [GorillaNation]: http://www.gorillanation.com/ "GorillaNation"
 [mail]: mailto:kitchen@kitchen.io "email kitchen@kitchen.io"
-[arrl-mail]: mailto:CALLSIGN@arrl.net "email CALLSIGN@arrl.net"
+[arrl-mail]: mailto:KK6AKZ@arrl.net "email KK6AKZ@arrl.net"
 [twitter]: https://twitter.com/kitchen "@kitchen on twitter"
 [jabber]: xmpp://kitchen@scriptkitchen.com/
 [gpgkey]: /text/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
 [github]: https://github.com/kitchen "@kitchen on github"
 [freenode]: http://freenode.net "freenode irc network"
 [shittywatercolour]: http://www.reddit.com/user/shitty_watercolour "Shitty_Watercolour on reddit"
-[qrz-CALLSIGN]: http://qrz.com/db/CALLSIGN "CALLSIGN at qrz.com"
+[qrz-KK6AKZ]: http://qrz.com/db/KK6AKZ "KK6AKZ at qrz.com"

@@ -8,7 +8,7 @@ categories: ham
 
 Yay, after several days of waiting and spamming the search page on the [FCC ULS][fcc-uls] website, I finally got my call!
 
- [CALLSIGN][qrz-CALLSIGN]
+ [KK6AKZ][qrz-KK6AKZ]
 
 Now I need to get a radio and make some contacts! See you on the air!
 
@@ -16,4 +16,4 @@ Now I need to get a radio and make some contacts! See you on the air!
 
 
 [fcc-uls]: http://wireless.fcc.gov/uls/index.htm?job=home "FCC Universal Licensing System"
-[qrz-CALLSIGN]: http://qrz.com/db/CALLSIGN
+[qrz-KK6AKZ]: http://qrz.com/db/KK6AKZ

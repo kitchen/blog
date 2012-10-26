@@ -8,11 +8,10 @@ sidebar: false
 footer: true
 ---
 
-My call sign is [CALLSIGN][qrz-CALLSIGN].
+My call sign is [KK6AKZ][qrz-KK6AKZ].
 
 And that's about it, for now!
 
-[qrz-CALLSIGN]: http://qrz.com/db/CALLSIGN "CALLSIGN at qrz.com"
 
 Here are some of my favorite ham radio resources:
 
@@ -21,6 +20,7 @@ Here are some of my favorite ham radio resources:
 * [aprs.fi][aprs.fi] - Google maps with APRS information overlay.
 
 
+[qrz-KK6AKZ]: http://qrz.com/db/KK6AKZ "KK6AKZ at qrz.com"
 [arrl]: http://arrl.org "ARRL Website"
 [aprs.fi]: http://aprs.fi "APRS Google Maps Overlay"
 [hamnation]: http://twit.tv/hn "Ham Nation at TWiT"
