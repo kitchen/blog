@@ -97,3 +97,8 @@ google_analytics_tracking_id: UA-34181082-1
 
 # Facebook Like
 facebook_like: false
+
+# jekyll-mapping configuration
+mapping:
+    provider: google_js
+    api_key: AIzaSyA9TOquHeRKhyxBW9eydyEtuYsEF7J3oMc
