@@ -23,7 +23,7 @@ Then I found out that [GitHub pages][ghpages] was powered by Jekyll, and being a
 Unfortunately, after playing around with it for a while, I realized that I just wasn't that interested in building all of my templates and such from scratch.
 I'm not an HTML guy.
 Don't get me wrong, I like HTML just fine, it's just that I don't have the mindset of "semantic markup"... Or maybe, I have too much the mindset and just get caught up in the details and never go anywhere.
-It certainly doesn't help that I'm terrible with CSS, so [anything I create][sk] looks awful, and I am not patient enough to spend hours tweaking my site so it looks and works great in every browser. (Don't get me started on IE).
+It certainly doesn't help that I'm terrible with CSS, so ~~~[anything I create][sk]~~~ *\[ed: scriptkitchen.com now just points to my blog\]* looks awful, and I am not patient enough to spend hours tweaking my site so it looks and works great in every browser. (Don't get me started on IE).
 
 Then, a few days ago, along came [Jekyll Bootstrap][jekyll-bootstrap].
 I thought to myself, "this is amazing, this is exactly what I've been looking for."
