@@ -1,0 +1,8 @@
+---
+layout: page
+title: ....- ----- ....-
+hidetitle: true
+footer: false
+---
+
+Page not found! Try checking out [the archives](blog/archives "blog.kitchen.io archives")
