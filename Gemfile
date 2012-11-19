@@ -14,6 +14,7 @@ group :development do
   gem 'stringex', '~> 1.4.0'
   gem 'liquid', '~> 2.3.0'
   gem 'ruby-oembed', '~> 0.8.7'
+  gem 'flickraw', '~> 0.9.6'
 end
 
 gem 'sinatra', '~> 1.3.2'
