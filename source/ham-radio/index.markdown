@@ -10,7 +10,11 @@ footer: true
 
 My call sign is [KK6AKZ][qrz-KK6AKZ].
 
-And that's about it, for now!
+I have a radio, now! It's a Baofeng UV-5R+
+
+{% flickr_image 8209857433 z %}
+
+I've also been hanging out on [147.435][435repeaterorg] a bit, so you might see me there.
 
 
 Here are some of my favorite ham radio resources:
@@ -24,5 +28,6 @@ Here are some of my favorite ham radio resources:
 [arrl]: http://arrl.org "ARRL Website"
 [aprs.fi]: http://aprs.fi "APRS Google Maps Overlay"
 [hamnation]: http://twit.tv/hn "Ham Nation at TWiT"
+[435repeaterorg]: http://435repeater.org/ "Legendary 435 Repeater"
 
 
