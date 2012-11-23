@@ -1,0 +1,49 @@
+---
+layout: post
+title: "73 435"
+date: 2012-11-23 01:18
+comments: true
+categories: ham
+---
+
+So, I finally got a radio and got on the air! I picked up a [Baofeng UV-5R+][uv5r] from Amazon and got on the air!
+
+{% flickr_image 8209857433 z %}
+
+Last night after some struggle, I got the radio cloned using both Baofeng's software (which is pretty hilariously bad, I must say) and [CHIRP][chirp] to make a baseline backup of the device, per Raccoon's recommendation (freenode/efnet) and got down to programming.
+
+I feel like using CHIRP to program my radio is a bit "cheating" in a way, because I literally opened CHIRP, gave it my location, and it looked up my local repeaters online and programmed them into the radio for me.
+
+I tuned into the closest repeater I could find, tossed out my call sign and waited.
+Nothing.
+I tried another.
+Nothing.
+I started getting discouraged, but then I remembered that my radio has a "scan" mode, so I fired that up.
+I ended up landing on 147.435, which is apparently an [infamous][435org] [repeater][435repeaterorg] in the SoCal area.
+There was a long and seemingly heated conversation going on, so I didn't break in, but I did listen for a while before heading to bed.
+
+Well, tonight, after stuffing my face full of deep fried turkey, mashed potatoes, stuffing, quality adult beverages and fun, I got home and fired up the radio again.
+It was still tuned to 435, and there was some activity, so I stayed with it and kept listening.
+I found out there's an [IRC Channel][dickcandles] and hopped on there to see what was happening.
+After a while I braved the airwaves and started talking.
+Then, something amazing happened.
+I got a response!
+Sadly, it was that I was very quiet, which I think is due in large part to the fact that I'm using the stock antenna which came with the radio, which I read in a lot of the reviews is not very good.
+Fortunately, the people seemed to be receptive and friendly to this new voice on the air, and I got some recommendations for improving and testing my setup, including hopping on the repeater's teamspeak server for duplex so I can check how the repeater is hearing me.
+
+One thing that is drawing me to the repeater is that they seem to have [less concern about "obscene language"][435standards], and that's appealing to me.
+Not because I have to have profanity in my life to survive, but because it means there are less "tabboo" topics, and I won't have to watch my mouth quite so much!
+
+Anywho, I'm just happy to finally be on the air, and I look forward to many more rag chews and contacts and Elmer sessions.
+"73" 435.
+
+Special thanks to [N6BHU][n6bhu] and KC6USO (though this appears to be an outdated call?) for being patient with me and helping me out, both in the irc channel and on the air.
+
+
+[435org]: http://435.org/ "435's Animal House"
+[435repeaterorg]: 
+[uv5r]: http://www.eham.net/reviews/detail/10349 "Baofeng UV-5R review on eham.net"
+[chirp]: http://chirp.danplanet.com/ "CHIRP: the Open Source radio programming tool"
+[dickcandles]: http://dickcandles.com/ "435's irc/teamspeak server"
+[N6BHU]: http://hamcall.net/call/N6BHU "N6BHU on hamcall.net"
+[435standards]: http://www.435repeater.org/CommunityStandards.html "435repeater.org Community Standards"
