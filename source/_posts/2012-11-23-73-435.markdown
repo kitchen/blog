@@ -41,7 +41,7 @@ Special thanks to [N6BHU][n6bhu] and KC6USO (though this appears to be an outdat
 
 
 [435org]: http://435.org/ "435's Animal House"
-[435repeaterorg]: 
+[435repeaterorg]: http://435repeater.org/ "Another 435 website"
 [uv5r]: http://www.eham.net/reviews/detail/10349 "Baofeng UV-5R review on eham.net"
 [chirp]: http://chirp.danplanet.com/ "CHIRP: the Open Source radio programming tool"
 [dickcandles]: http://dickcandles.com/ "435's irc/teamspeak server"
