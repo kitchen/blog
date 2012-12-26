@@ -41,7 +41,7 @@ Hopefully the cats don't undo everything while I'm gone.
 Speaking of being gone, I'll be heading home to Mount Pleasant, IA next week.
 My brother is getting married on New Year's Eve, so I figure that's a reasonable excuse to go home.
 I'm flying through Denver, so hopefully I won't have any weather troubles.
-I'm pretty sure DIA knows how to handle a bit of snow by this point!
+I'm pretty sure <del>DIA</del> DEN knows how to handle a bit of snow by this point!
 
 On the cats front, Bean and Jimmy are still getting along great.
 Bean is about the same size as Jimmy nowadays, and I think he still has a bit more growing to do.
