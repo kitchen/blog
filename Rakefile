@@ -8,6 +8,7 @@ ssh_user       = "kitchen@inara"
 ssh_port       = "22"
 document_root  = "~/web/blog.kitchen.io/root/"
 rsync_delete   = true
+rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
