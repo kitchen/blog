@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "kitchen@inara"
+ssh_user       = "kitchen@pluto"
 ssh_port       = "22"
 document_root  = "~/web/blog.kitchen.io/root/"
 rsync_delete   = true
