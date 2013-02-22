@@ -1,0 +1,20 @@
+---
+layout: post
+title: "SCaLE 11x"
+date: 2013-02-22 12:17
+comments: true
+categories: linux
+---
+
+This weekend I'm attending [SCaLE 11x][scale11x].
+I've been to the conference a few times in the past and it's always been a good time and excellent opportunity for networking and learning.
+
+{% img http://www.socallinuxexpo.org/sites/all/themes/custom/ui_toolkit/img/scale11x-logo60.png %}
+
+If you're going to be there and want to meet up for a beer or something, drop me an email and we'll meet up!
+
+I'll also be at the [PGP key signing party][pgpparty] Saturday night, let's meet up and swap signatures!
+
+
+[scale11x]: http://www.socallinuxexpo.org/scale11x "Southern California Linux Expo 11x"
+[pgpparty]: http://www.socallinuxexpo.org/scale11x/pgp-key-signing-party "SCaLE 11x PGP Keysigning Party"
