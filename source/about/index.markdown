@@ -15,7 +15,7 @@ Here are some other things about me:
 
 * I am a Systems Administrator by trade.
 * I live in Van Nuys, CA.
-* I work for [GorillaNation][GorillaNation]
+* I work for [Evolve Media LLC][evolve]
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run. (barefoot)
@@ -54,7 +54,7 @@ Maybe I can help you, while I'm at it?
 
 
 
-[GorillaNation]: http://www.gorillanation.com/ "GorillaNation"
+[evolve]: http://www.evolvemediallc.com/ "Evolve Media LLC"
 [mail]: mailto:kitchen@kitchen.io "email kitchen@kitchen.io"
 [arrl-mail]: mailto:KK6AKZ@arrl.net "email KK6AKZ@arrl.net"
 [twitter]: https://twitter.com/kitchen "@kitchen on twitter"
