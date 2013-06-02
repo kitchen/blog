@@ -3,7 +3,7 @@ layout: post
 title: "BTC Exchange Gets Raided"
 date: 2013-05-15 23:45
 comments: true
-categories: journal
+categories: news
 ---
 
 While talking on IRC earlier, [this article][rt-btc-raid] came up in the channel.
