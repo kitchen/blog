@@ -76,5 +76,5 @@ I just got a bit distracted by all the other things I would want a wrapper like 
 
 
 [6days1line]: http://edweissman.com/it-takes-6-days-to-change-1-line-of-code "I'd rather sit through 2girls1cup"
-[peabody]: https://github.com/gorillanation/peabody "Peabody, cron's best friend!"
+[peabody]: https://github.com/kitchen/peabody "Peabody, cron's best friend!"
 [logstash]: http://logstash.net/ "logstash, the log stasher"

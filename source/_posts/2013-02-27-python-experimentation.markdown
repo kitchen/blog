@@ -26,7 +26,7 @@ It's going to be a long, interesting journey!
 
 [python]: http://python.org/ "python programming language"
 [logstash]: http://logstash.net/ "logstash - open source log management"
-[peabody]: http://github.com/gorillanation/peabody "peabody - cron's best friend!"
+[peabody]: http://github.com/kitchen/peabody "peabody - cron's best friend!"
 [peabody-blogpost]: /archive/2012/09/13/introducing-peabody/ "Introducing peabody!"
 [pipestash]: http://github.com/kitchen/pipestash
 [multiprocessing]: http://docs.python.org/2/library/multiprocessing.html "python - multiprocessing"
