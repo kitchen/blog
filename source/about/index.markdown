@@ -13,9 +13,9 @@ Hello, my name is Jeremy Kitchen.
 
 Here are some other things about me: 
 
-* I am a Systems Administrator by trade.
+* I am a Systems Engineer by trade.
 * I live in Van Nuys, CA.
-* I work for [Evolve Media LLC][evolve]
+* I work for [NationBuilder][nationbuilder]
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run. (barefoot)
@@ -54,9 +54,8 @@ Maybe I can help you, while I'm at it?
 
 
 
-[evolve]: http://www.evolvemediallc.com/ "Evolve Media LLC"
+[nationbuilder]: http://nationbuilder.com/ "NationBuilder"
 [mail]: mailto:kitchen@kitchen.io "email kitchen@kitchen.io"
-[arrl-mail]: mailto:KK6AKZ@arrl.net "email KK6AKZ@arrl.net"
 [twitter]: https://twitter.com/kitchen "@kitchen on twitter"
 [jabber]: xmpp://kitchen@scriptkitchen.com/
 [gpgkey]: /text/6300CC3D.asc "GPG Key Id: 6300CC3D Jeremy Kitchen"
