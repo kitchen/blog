@@ -25,7 +25,6 @@ Here are some ways to contact me:
 * twitter: [@kitchen][twitter]
 * email: [kitchen@kitchen.io][mail]
 * github: [@kitchen][github]
-* xmpp: [kitchen@scriptkitchen.com][jabber]
 * cell: 708-805-4655
 * irc: jkitchen on [freenode][freenode]
 
