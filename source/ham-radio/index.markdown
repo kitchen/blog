@@ -8,7 +8,7 @@ sidebar: false
 footer: true
 ---
 
-My call sign is [KK6AKZ][qrz-KK6AKZ].
+My call sign is [KK6AKZ][qrz-KK6AKZ]. But I don't really use it. One of these days I may start up again but for now I'm on ham hiatus.
 
 I have a radio, now! It's a Baofeng UV-5R+
 

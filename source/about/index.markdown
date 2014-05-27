@@ -19,7 +19,6 @@ Here are some other things about me:
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run. (barefoot)
-* I'm a [Ham Radio Operator][qrz-KK6AKZ]
 
 Here are some ways to contact me:
 
@@ -62,4 +61,3 @@ Maybe I can help you, while I'm at it?
 [github]: https://github.com/kitchen "@kitchen on github"
 [freenode]: http://freenode.net "freenode irc network"
 [shittywatercolour]: http://www.reddit.com/user/shitty_watercolour "Shitty_Watercolour on reddit"
-[qrz-KK6AKZ]: http://qrz.com/db/KK6AKZ "KK6AKZ at qrz.com"
