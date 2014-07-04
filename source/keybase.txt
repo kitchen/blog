@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/kitchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kitchen.io
+  * I am kitchen (https://keybase.io/kitchen) on keybase.
+  * I have a public key with fingerprint E025 49FD 897E 0385 0505  2462 BEB4 4149 6300 CC3D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "e02549fd897e038505052462beb441496300cc3d",
+            "host": "keybase.io",
+            "key_id": "BEB441496300CC3D",
+            "uid": "842e60cb606eea95739ba227533cb700",
+            "username": "kitchen"
+        },
+        "merkle_root": {
+            "ctime": 1404497297,
+            "hash": "238ddcbde539a8650e1b76ad3a00680e564802dd40bdaa01819bd7f7e869add1878ae5694fcf442356846f4692056bbf607570a3b3cf977b4390b1acb585dac6",
+            "seqno": 25624
+        },
+        "service": {
+            "hostname": "kitchen.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1404500413,
+    "expire_in": 157680000,
+    "prev": "026754e322819f09ceeffc0a1285ee530219e0a89798774a1c4ad5e3cd7ce6b1",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFVkm1QFVUYxy8QKDgWkKgJDbBpSRGefd+lgeJFUkAaU9CUEc7unuUuL/fe9u5F
+yCAU/ICOxACjiUSiZhiTDi9DEyUNgQSYNcoAEWEkJKJQoZg0g9QuZek5X87L7/mf
+5/+cp3Spi8nDqbUpYqNo+ibM6eKEYNrS/GfrHkywSrlY6B5MzFSQRTNWFpiFsFAs
+A+UK0I5CFGuAxSqhkHR7wL9MMJaNVLtitegUCKFCcBzLCzZ4I1pWLGlItamKIYYh
+QNAUL0sczyJAcjTQJ0ExhIAEisIpniEBEEVS0jXNVrv2yLPYgmaKIumnkesj/+Oj
+osho/c6xcMFRBGKAKDCAQQjyNEvyAiQIliZJUWABMEA7Uh94UjTRjCxGullIzchE
+KarVumBa1BSDwClAUTxL8KyeELSb9RiC5CRJFCREkzzkGBogXGAZKJEQAIYDiGYo
+DhCSRAFBghDgHM4LEiuziGN4KEk4x3JQh3hKFmWKIkia4ShGphieADQjCDIDWJoF
+kBRIUeZZVqBIHgg4FAWaoyUoMroDO3rTYsVCCZohqDxjq2YrIjLSNor2qLd/CmdT
+rZpVtGbq52ZNs4UajrVcm8HtRkKKrlBnSKQIikXSP+zhL8V19KFq0ABQOBmMoRyb
+oqIUxSBoVjeuD+MdlG10AcGwNIVIgtDdy4AXEZJlEUCc4GikFw4QOI8A1LuA51iW
+grhIQYlGpCixImIE/H+POKEnCtN0TbuSZoGaQ0VYXrGz32MmJw+Tm6uz0bQmD3fP
+B538Wp6naXQUZcy4mI79DO84e966473r6qGP1JOwJtv1xdrp499GQiYu+p3EnZWi
+04W6TfNpqf1xZ5KvnzjdPJn0WRnWMYkdcW0bYV4v9/7Y0fBpRdHQ74Nvubht2Px1
+SVT8VH7lqRUH2i5t35Eqb672Vf1XrXmluvKcvS4xkB3r6j461hreurRovKpu5a3O
+0YFawnFysQp/S/n+/YstiZ+0HDhfMG9q8x8b2u22+mZ+xi8JSePuNtf6P+b7v7sQ
+vTq0bTh2Y/HAXMO0z+wSrZQtSh+5vb5pyN2emjztXNV5sHm4Jz5tx4/HD7P1PRXr
+drUvejV8vPByWeXLz/oNv3TsCZefzFvuDVRvOtJhueLbsCQzcDpmeYC5O8fuba2N
+/+pc9LLerSVn/TpmHGKBp+b5VPLBZ27Yvuwo3Of19NkfhPCW+ooPB8vcTvjtTc9M
+/mvu3cth5pHhtcl5SX7Xw/tmfn2+o4AI7e997oNLE0f7IiqCbgetyl2R0FJ5pnh/
+/GJHTE1iITfx9oZ9s66d7jmtK+N3ouqYqoRTW7eVt0XVnD+9LSK2x2ntpI/ti4kr
+s71pQ4nF+VODmpdX+0yX/EY347Pdt+rqmnL/dfdCLB2LBJ5d3hS236frZtbc56XK
+3YLwZQOPt9+PC7qmTvnmK3cTPWMbS4JiG5sK9wpPpucdvua4cd8yNdIyG9MXqDX2
+OL/3Qubf
+=tsWh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kitchen
+
+==================================================================
