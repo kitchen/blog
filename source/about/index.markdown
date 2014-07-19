@@ -27,6 +27,7 @@ Here are some ways to contact me:
 * github: [@kitchen][github]
 * cell: 708-805-4655
 * irc: jkitchen on [freenode][freenode]
+* [keybase.io](https://keybase.io): [kitchen](https://keybase.io/kitchen)
 
 I also have a [GPG key][gpgkey] if you're into that sort of thing (I am, and you should be too). <!--- I should make up a post about gpg and link to it there -->
 My key's fingerprint is: `E025 49FD 897E 0385 0505  2462 BEB4 4149 6300 CC3D`
