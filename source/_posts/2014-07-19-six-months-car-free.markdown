@@ -105,7 +105,9 @@ But when you've god a $600/mo car/insurance payment, spending $80 to roundtrip t
 
 If I had it to do it all over again I would actually have sold my car *sooner* than I did.
 The amount of times I've really *needed* a car since I sold mine made me realize that car ownership just isn't for me anymore.
-I can totally get by without a car of my own, even if I need 
+I can totally get by without a car of my own, even if I need one from time to time, I don't need to *own* one.
+In so many ways it's actually quite freeing to not have a car.
+I can get one when I need one, but when I don't it's not burdening me in any way!
 
 # What now?
 
