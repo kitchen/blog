@@ -14,7 +14,7 @@ Hello, my name is Jeremy Kitchen.
 Here are some other things about me: 
 
 * I am a Systems Engineer by trade.
-* I live in Van Nuys, CA.
+* I live in Portland, OR.
 * I work for [NationBuilder][nationbuilder]
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
@@ -25,7 +25,7 @@ Here are some ways to contact me:
 * twitter: [@kitchen][twitter]
 * email: [kitchen@kitchen.io][mail]
 * github: [@kitchen][github]
-* cell: 708-805-4655
+* cell: 503-432-9536
 * irc: jkitchen on [freenode][freenode]
 * [keybase.io](https://keybase.io): [kitchen](https://keybase.io/kitchen)
 
