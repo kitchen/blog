@@ -11,14 +11,15 @@ footer: true
 
 Hello, my name is Jeremy Kitchen.
 
-Here are some other things about me: 
+Here are some other things about me:
 
 * I am a Systems Engineer by trade.
 * I live in Portland, OR.
 * I work for [NationBuilder][nationbuilder]
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
-* I'm learning to run. (barefoot)
+* I'm learning to run.
+* I have a [resume](/resume/)
 
 Here are some ways to contact me:
 
