@@ -30,29 +30,29 @@ Experience
 
     NationBuilder provides a collection of tools for lead generation and CRM for political campaigns, non-profit organizations, and small businesses.
 
-    At NationBuilder I was responsible for the design, installation, deployment, configuration, and maintenance of our entire colocation infrastructure. Since it was a greenfield installation, automation from the very beginning was a critical requirement, as well as maintaining automation going forward.
+    Responsible for the design, installation, deployment, configuration, and maintenance of our entire colocation infrastructure. Since it was a greenfield installation, automation from the very beginning was a critical requirement, as well as maintaining automation going forward.
 
-    I used a variety of tools including libvirt, foreman, puppet, and capistrano to automate the provisioning, configuring, and deployment of infrastructure from the bare metal up.
+    Used a variety of tools including libvirt, foreman, puppet, and capistrano to automate the provisioning, configuring, and deployment of infrastructure from the bare metal up.
 
-    Identifying performance issues, troubleshooting outages, defending against denial of service attacks, and assisting developers using the infrastructure were some of my day to day responsibilities.
+    Identified performance issues, troubleshooted outages, defended against denial of service attacks, and assisted developers in using the infrastructure and automating their deployments.
 
 * **Configuration Management Engineer** -- [GorillaNation](http://gorillanation.com)
     May 2012 - May 2013
 
     GorillaNation is an online media and marketing agency.
 
-    Assisted my team in deploying, maintaining, and configuring our internal application for managing ad placements across our properties and those of our clients.
+    Responsible for deployment, maintenance, and configuration of internal application for managing ad placements across our properties and those of our clients.
 
-    Helped with a major project to migrate from Google’s DART api to their DFP api, including database migration and rewrite of major components of our ad placement application.
+    Assisted with major project to migrate our ad placement management application from Google's DART api to their DFP api, including database migration and rewrite of major application components.
 
-    As part of my duties on the platform engineering team, I was responsible for maintaining our internal code repositories, improving monitoring of critical infrastructure, and improving systems management tools including Puppet code and various command line tools we used for provisioning infrastructure.
+    Responsible for maintenance of internal code repositories, improvement of critical infrastructure monitoring, and improvement of systems management tools including Puppet code and resource provisioning tools.
 
 * **Systems Administrator** -- [DreamHost](https://dreamhost.com/)
     January 2007 - December 2011
 
     DreamHost is a major web hosting and cloud services company.
 
-    Developed and deployed a system for performing online backups of shared hosting servers and database servers.
+    Developed and deployed a system for performing online backups and restoration of shared hosting servers and database servers.
 
     Made improvements and added features to internal home-rolled configuration management and automation systems, and the web panel which drove it.
 
