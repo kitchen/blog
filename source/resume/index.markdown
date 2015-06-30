@@ -11,10 +11,7 @@ footer: true
 Jeremy Kitchen
 ==============
 
-121 NE 24th Ave  
-Portland, OR 97232  
 kitchen@kitchen.io  
-503-432-9536  
 https://github.com/kitchen  
 
 Profile
