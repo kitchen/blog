@@ -15,7 +15,7 @@ Here are some other things about me:
 
 * I am a Systems Engineer by trade.
 * I live in Portland, OR.
-* I work for [NationBuilder][nationbuilder]
+* I am currently unemployed.
 * I have a corgi. <!--- I should probably link to him here -->
 * I ride my bike a lot.
 * I'm learning to run.
