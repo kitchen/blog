@@ -11,7 +11,7 @@ footer: true
 Jeremy Kitchen
 ==============
 
-kitchen@kitchen.io  
+[kitchen@kitchen.io](mailto:kitchen@kitchen.io)  
 https://github.com/kitchen  
 
 Profile
@@ -51,7 +51,7 @@ Experience
 
     Developed and deployed a system for performing online backups and restoration of shared hosting servers and database servers.
 
-    Made improvements and added features to internal home-rolled configuration management and automation systems, and the web panel which drove it.
+    Made improvements and added features to in-house configuration management and automation systems, and the web panel which drove it.
 
     Monitored and troubleshooted problematic systems including hardware problems, denial of service attacks, and application performance issues.
 
